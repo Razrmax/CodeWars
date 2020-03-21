@@ -1,0 +1,13 @@
+C:\Users\Maxim\Desktop\Programming\CodeWars\ArrayDiff\bin\Debug\netcoreapp3.1\ArrayDiff.exe
+C:\Users\Maxim\Desktop\Programming\CodeWars\ArrayDiff\bin\Debug\netcoreapp3.1\ArrayDiff.deps.json
+C:\Users\Maxim\Desktop\Programming\CodeWars\ArrayDiff\bin\Debug\netcoreapp3.1\ArrayDiff.runtimeconfig.json
+C:\Users\Maxim\Desktop\Programming\CodeWars\ArrayDiff\bin\Debug\netcoreapp3.1\ArrayDiff.runtimeconfig.dev.json
+C:\Users\Maxim\Desktop\Programming\CodeWars\ArrayDiff\bin\Debug\netcoreapp3.1\ArrayDiff.dll
+C:\Users\Maxim\Desktop\Programming\CodeWars\ArrayDiff\bin\Debug\netcoreapp3.1\ArrayDiff.pdb
+C:\Users\Maxim\Desktop\Programming\CodeWars\ArrayDiff\obj\Debug\netcoreapp3.1\ArrayDiff.csprojAssemblyReference.cache
+C:\Users\Maxim\Desktop\Programming\CodeWars\ArrayDiff\obj\Debug\netcoreapp3.1\ArrayDiff.csproj.CoreCompileInputs.cache
+C:\Users\Maxim\Desktop\Programming\CodeWars\ArrayDiff\obj\Debug\netcoreapp3.1\ArrayDiff.AssemblyInfoInputs.cache
+C:\Users\Maxim\Desktop\Programming\CodeWars\ArrayDiff\obj\Debug\netcoreapp3.1\ArrayDiff.AssemblyInfo.cs
+C:\Users\Maxim\Desktop\Programming\CodeWars\ArrayDiff\obj\Debug\netcoreapp3.1\ArrayDiff.dll
+C:\Users\Maxim\Desktop\Programming\CodeWars\ArrayDiff\obj\Debug\netcoreapp3.1\ArrayDiff.pdb
+C:\Users\Maxim\Desktop\Programming\CodeWars\ArrayDiff\obj\Debug\netcoreapp3.1\ArrayDiff.genruntimeconfig.cache

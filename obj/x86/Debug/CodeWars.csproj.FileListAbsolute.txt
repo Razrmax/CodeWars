@@ -1,0 +1,5 @@
+C:\Users\maxim\Desktop\Programming\CodeWars\obj\x86\Debug\CodeWars.csprojAssemblyReference.cache
+C:\Users\maxim\Desktop\Programming\CodeWars\bin\Debug\ConsoleApplication.exe
+C:\Users\maxim\Desktop\Programming\CodeWars\bin\Debug\ConsoleApplication.pdb
+C:\Users\maxim\Desktop\Programming\CodeWars\obj\x86\Debug\ConsoleApplication.exe
+C:\Users\maxim\Desktop\Programming\CodeWars\obj\x86\Debug\ConsoleApplication.pdb

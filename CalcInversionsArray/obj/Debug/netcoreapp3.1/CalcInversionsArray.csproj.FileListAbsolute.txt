@@ -1,0 +1,13 @@
+C:\Users\Maxim\Desktop\Programming\CodeWars\CalcInversionsArray\obj\Debug\netcoreapp3.1\CalcInversionsArray.csprojAssemblyReference.cache
+C:\Users\Maxim\Desktop\Programming\CodeWars\CalcInversionsArray\obj\Debug\netcoreapp3.1\CalcInversionsArray.csproj.CoreCompileInputs.cache
+C:\Users\Maxim\Desktop\Programming\CodeWars\CalcInversionsArray\obj\Debug\netcoreapp3.1\CalcInversionsArray.AssemblyInfoInputs.cache
+C:\Users\Maxim\Desktop\Programming\CodeWars\CalcInversionsArray\obj\Debug\netcoreapp3.1\CalcInversionsArray.AssemblyInfo.cs
+C:\Users\Maxim\Desktop\Programming\CodeWars\CalcInversionsArray\bin\Debug\netcoreapp3.1\CalcInversionsArray.exe
+C:\Users\Maxim\Desktop\Programming\CodeWars\CalcInversionsArray\bin\Debug\netcoreapp3.1\CalcInversionsArray.deps.json
+C:\Users\Maxim\Desktop\Programming\CodeWars\CalcInversionsArray\bin\Debug\netcoreapp3.1\CalcInversionsArray.runtimeconfig.json
+C:\Users\Maxim\Desktop\Programming\CodeWars\CalcInversionsArray\bin\Debug\netcoreapp3.1\CalcInversionsArray.runtimeconfig.dev.json
+C:\Users\Maxim\Desktop\Programming\CodeWars\CalcInversionsArray\bin\Debug\netcoreapp3.1\CalcInversionsArray.dll
+C:\Users\Maxim\Desktop\Programming\CodeWars\CalcInversionsArray\bin\Debug\netcoreapp3.1\CalcInversionsArray.pdb
+C:\Users\Maxim\Desktop\Programming\CodeWars\CalcInversionsArray\obj\Debug\netcoreapp3.1\CalcInversionsArray.dll
+C:\Users\Maxim\Desktop\Programming\CodeWars\CalcInversionsArray\obj\Debug\netcoreapp3.1\CalcInversionsArray.pdb
+C:\Users\Maxim\Desktop\Programming\CodeWars\CalcInversionsArray\obj\Debug\netcoreapp3.1\CalcInversionsArray.genruntimeconfig.cache
