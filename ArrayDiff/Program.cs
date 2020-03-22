@@ -17,52 +17,44 @@ namespace ArrayDiff
     {
         static void Main(string[] args)
         {
-            int[] originalValues = ArrayDiff(new int[] {1, 2, 2, 2, 3}, new int[] {2});
+            int[] originalValues = ArrayDiff(new int[] {}, new int[] {});
             foreach (int i in originalValues)
             {
-                Console.WriteLine(i);                
+                Console.WriteLine(i);
+                Console.ReadLine();
             }
         }
 
         static int[] ArrayDiff(int[] a, int[] b)
         {
-            int repititions = 0;
-            bool isRepeated = false;
+            int totalRepititions = 0;
+            int[] tempValues = new int[a.Length];
+            int tempIndex = 0;
 
-            foreach (int i  in b)
+            foreach (int verifiedElement in a)
             {
-                foreach (int j in a)
+                bool isRepeated = false;
+                for (int i = 0; i < b.Length; i++)
                 {
-                    if (i == j)
-                    {
-                        repititions++;
-                    }
-                }
-            }
-            
-            int[] original = new int[a.Length - repititions];
-            int index = 0;
-
-            for (int i = 0; i < a.Length; i++)
-            {
-                for (int j = 0; j < b.Length; j++)
-                {
-                    if (a[i] == b[j])
+                    if (b[i] == verifiedElement)
                     {
                         isRepeated = true;
-                        break;
-                    }
+                        totalRepititions++;
+                    }                    
                 }
-                if(!isRepeated)
+                if (!isRepeated)
                 {
-                    original[index] = a[i];
-                    index++;
-                    isRepeated = false;
+                    tempValues[tempIndex++] = verifiedElement;
                 }
-                isRepeated = false;                                
             }
 
-            return original;
+            int[] originalValues = new int[a.Length - totalRepititions];
+            for (int i = 0; i < originalValues.Length; i++)
+            {
+                originalValues[i] = tempValues[i];
+            }
+
+            return originalValues;
         }
     }
 }
