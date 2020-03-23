@@ -1,0 +1,13 @@
+C:\Users\Maxim\Desktop\Programming\CodeWars\CreatePhoneNumber\bin\Debug\netcoreapp3.1\CreatePhoneNumber.exe
+C:\Users\Maxim\Desktop\Programming\CodeWars\CreatePhoneNumber\bin\Debug\netcoreapp3.1\CreatePhoneNumber.deps.json
+C:\Users\Maxim\Desktop\Programming\CodeWars\CreatePhoneNumber\bin\Debug\netcoreapp3.1\CreatePhoneNumber.runtimeconfig.json
+C:\Users\Maxim\Desktop\Programming\CodeWars\CreatePhoneNumber\bin\Debug\netcoreapp3.1\CreatePhoneNumber.runtimeconfig.dev.json
+C:\Users\Maxim\Desktop\Programming\CodeWars\CreatePhoneNumber\bin\Debug\netcoreapp3.1\CreatePhoneNumber.dll
+C:\Users\Maxim\Desktop\Programming\CodeWars\CreatePhoneNumber\bin\Debug\netcoreapp3.1\CreatePhoneNumber.pdb
+C:\Users\Maxim\Desktop\Programming\CodeWars\CreatePhoneNumber\obj\Debug\netcoreapp3.1\CreatePhoneNumber.csprojAssemblyReference.cache
+C:\Users\Maxim\Desktop\Programming\CodeWars\CreatePhoneNumber\obj\Debug\netcoreapp3.1\CreatePhoneNumber.csproj.CoreCompileInputs.cache
+C:\Users\Maxim\Desktop\Programming\CodeWars\CreatePhoneNumber\obj\Debug\netcoreapp3.1\CreatePhoneNumber.AssemblyInfoInputs.cache
+C:\Users\Maxim\Desktop\Programming\CodeWars\CreatePhoneNumber\obj\Debug\netcoreapp3.1\CreatePhoneNumber.AssemblyInfo.cs
+C:\Users\Maxim\Desktop\Programming\CodeWars\CreatePhoneNumber\obj\Debug\netcoreapp3.1\CreatePhoneNumber.dll
+C:\Users\Maxim\Desktop\Programming\CodeWars\CreatePhoneNumber\obj\Debug\netcoreapp3.1\CreatePhoneNumber.pdb
+C:\Users\Maxim\Desktop\Programming\CodeWars\CreatePhoneNumber\obj\Debug\netcoreapp3.1\CreatePhoneNumber.genruntimeconfig.cache

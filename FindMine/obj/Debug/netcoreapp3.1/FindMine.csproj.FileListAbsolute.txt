@@ -1,0 +1,13 @@
+C:\Users\Maxim\Desktop\Programming\CodeWars\FindMine\bin\Debug\netcoreapp3.1\FindMine.exe
+C:\Users\Maxim\Desktop\Programming\CodeWars\FindMine\bin\Debug\netcoreapp3.1\FindMine.deps.json
+C:\Users\Maxim\Desktop\Programming\CodeWars\FindMine\bin\Debug\netcoreapp3.1\FindMine.runtimeconfig.json
+C:\Users\Maxim\Desktop\Programming\CodeWars\FindMine\bin\Debug\netcoreapp3.1\FindMine.runtimeconfig.dev.json
+C:\Users\Maxim\Desktop\Programming\CodeWars\FindMine\bin\Debug\netcoreapp3.1\FindMine.dll
+C:\Users\Maxim\Desktop\Programming\CodeWars\FindMine\bin\Debug\netcoreapp3.1\FindMine.pdb
+C:\Users\Maxim\Desktop\Programming\CodeWars\FindMine\obj\Debug\netcoreapp3.1\FindMine.csprojAssemblyReference.cache
+C:\Users\Maxim\Desktop\Programming\CodeWars\FindMine\obj\Debug\netcoreapp3.1\FindMine.csproj.CoreCompileInputs.cache
+C:\Users\Maxim\Desktop\Programming\CodeWars\FindMine\obj\Debug\netcoreapp3.1\FindMine.AssemblyInfoInputs.cache
+C:\Users\Maxim\Desktop\Programming\CodeWars\FindMine\obj\Debug\netcoreapp3.1\FindMine.AssemblyInfo.cs
+C:\Users\Maxim\Desktop\Programming\CodeWars\FindMine\obj\Debug\netcoreapp3.1\FindMine.dll
+C:\Users\Maxim\Desktop\Programming\CodeWars\FindMine\obj\Debug\netcoreapp3.1\FindMine.pdb
+C:\Users\Maxim\Desktop\Programming\CodeWars\FindMine\obj\Debug\netcoreapp3.1\FindMine.genruntimeconfig.cache

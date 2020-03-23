@@ -17,12 +17,12 @@ namespace ArrayDiff
     {
         static void Main(string[] args)
         {
-            int[] originalValues = ArrayDiff(new int[] {}, new int[] {});
+            int[] originalValues = ArrayDiff(new int[] { 2,3}, new int[] {3,2});
             foreach (int i in originalValues)
             {
                 Console.WriteLine(i);
-                Console.ReadLine();
             }
+            Console.ReadLine();
         }
 
         static int[] ArrayDiff(int[] a, int[] b)
@@ -40,7 +40,7 @@ namespace ArrayDiff
                     {
                         isRepeated = true;
                         totalRepititions++;
-                    }                    
+                    }
                 }
                 if (!isRepeated)
                 {
@@ -49,10 +49,7 @@ namespace ArrayDiff
             }
 
             int[] originalValues = new int[a.Length - totalRepititions];
-            for (int i = 0; i < originalValues.Length; i++)
-            {
-                originalValues[i] = tempValues[i];
-            }
+            Array.Copy(tempValues,originalValues,a.Length - totalRepititions);
 
             return originalValues;
         }

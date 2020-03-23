@@ -1,7 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
-using System.Text;
 
 
 //https://www.codewars.com/kata/554ca54ffa7d91b236000023/train/csharp
@@ -30,10 +29,10 @@ namespace CodeWars
                 }
                 else
                 {
-                    uniqueValuesTable[arr[i]] += 1;                    
+                    uniqueValuesTable[arr[i]] += 1;
                 }
             }
-            Dictionary<int,int> temp = uniqueValuesTable;
+            Dictionary<int, int> temp = uniqueValuesTable;
 
             foreach (KeyValuePair<int, int> i in uniqueValuesTable.ToList())
             {
@@ -48,7 +47,7 @@ namespace CodeWars
             return uniqueValuesTable.Keys.ToArray();
         }
 
-        
+
     }
 
 
